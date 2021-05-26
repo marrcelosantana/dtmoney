@@ -1,9 +1,9 @@
 # TELAS - DTMoney 💰
 
-###Tela Inicial
+### Tela Inicial
 
 <img src="./prints/dtmoney1.jpg">
 
-###Modal - Cadastro de Transação
+### Modal - Cadastro de Transação
 
 <img src="./prints/dtmoney2.jpg">
